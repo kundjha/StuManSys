@@ -2,6 +2,7 @@ package net.devopsschool.sms.entity;
 
 #student
 #This is the structure of student
+#this is to test the remote 
 public class student {
 
       private long id;
